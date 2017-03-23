@@ -1,1 +1,1 @@
-# TA-Kemp_LoadMaster
+# Splunk Add-on for Kemp LoadMaster
